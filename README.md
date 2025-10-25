@@ -3,6 +3,15 @@
 Under construction.
 
 
+## Running
+
+```
+cargo run --release -- 8 12
+```
+
+The command above starts the simulation with 8 processes for 12 seconds. If no arguments are passed, it uses 5 processes for 10 seconds (default).
+
+
 ## ScreenShots
 
 | Image 1 | Image 2 | Image 3 |
