@@ -1,6 +1,6 @@
 # Process Simulator
 
-Under construction.
+A multithreaded process simulator with a ratatui dashboard for starting, pausing, and tracking simulated workloads. Configure process count and duration via CLI arguments.
 
 ## Running
 
