@@ -6,6 +6,8 @@ All notable changes to this project are documented in this file.
 
 - Commit: Renamed Cargo package to use hyphen convention.
   - Aligned the Cargo package name with the repository folder and Rust naming conventions.
+- Commit: Standardized README License section.
+  - Improved the project documentation and clarified how the project is used or maintained.
 
 ## 2026-07-26
 

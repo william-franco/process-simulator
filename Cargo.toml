@@ -1,5 +1,5 @@
 [package]
-name = "process_simulator"
+name = "process-simulator"
 version = "0.1.0"
 edition = "2024"
 
